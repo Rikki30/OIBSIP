@@ -1,0 +1,33 @@
+* {
+  margin: 2%;
+  padding: 0;
+
+}
+
+/* body {
+   clear:  all;
+   background-color: rgb(93, 192, 222) ;
+  } */
+.container{
+    background-color: rgb(106, 139, 247);
+    width: 100%;
+}
+.main {
+  background-color: rgb(212, 224, 251);
+  height: auto;
+  width: 280px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  margin: auto;
+}
+#display {
+  background-color: rgb(191, 223, 252);
+  line-height: 2.5;
+  border: 2px solid black;
+}
+.btn {
+  height: auto;
+  width: 40px;
+  margin: 6px 1px;
+}
